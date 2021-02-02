@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/findYourInspirationApp/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/findYourInspirationApp/static/js/main.9bce3670.chunk.js",
+    "main.js.map": "/findYourInspirationApp/static/js/main.9bce3670.chunk.js.map",
+    "runtime-main.js": "/findYourInspirationApp/static/js/runtime-main.1456ec1f.js",
+    "runtime-main.js.map": "/findYourInspirationApp/static/js/runtime-main.1456ec1f.js.map",
+    "static/js/2.b440d88b.chunk.js": "/findYourInspirationApp/static/js/2.b440d88b.chunk.js",
+    "static/js/2.b440d88b.chunk.js.map": "/findYourInspirationApp/static/js/2.b440d88b.chunk.js.map",
+    "static/js/3.66d52ee0.chunk.js": "/findYourInspirationApp/static/js/3.66d52ee0.chunk.js",
+    "static/js/3.66d52ee0.chunk.js.map": "/findYourInspirationApp/static/js/3.66d52ee0.chunk.js.map",
+    "index.html": "/findYourInspirationApp/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/findYourInspirationApp/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.b440d88b.chunk.js.LICENSE.txt": "/findYourInspirationApp/static/js/2.b440d88b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1456ec1f.js",
+    "static/js/2.b440d88b.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.9bce3670.chunk.js"
+  ]
+}
